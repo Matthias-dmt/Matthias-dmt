@@ -37,8 +37,10 @@
  - 🤔 I’m looking for help with find a job as software engineer with wich i can up my backend skills
  
  - 📫 How to reach me:
-  LinkedIn: https://www.linkedin.com/in/matthias-dumont/
-  Malt: https://www.malt.fr/profile/matthiasdumont
+ 
+  &nbsp; &nbsp; &nbsp; &nbsp; LinkedIn: https://www.linkedin.com/in/matthias-dumont/
+  
+  &nbsp; &nbsp; &nbsp; &nbsp; Malt: https://www.malt.fr/profile/matthiasdumont
 
 <!--
 **Matthias-dmt/Matthias-dmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
