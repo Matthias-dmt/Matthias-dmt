@@ -1,55 +1,33 @@
-### Hi there 👋
+# Hi there 👋 I'm Matthias Dumont  
 
- - 💻 technical stack : 
- 
-  &nbsp; &nbsp; &nbsp; &nbsp; - Vue.js (Nuxt, vuex, vuetify...)
-  
-  &nbsp; &nbsp; &nbsp; &nbsp; - React.js (Next, redux, react-router-dom, styled Components...)
-  
-  &nbsp; &nbsp; &nbsp; &nbsp; - React Native
-  
-  &nbsp; &nbsp; &nbsp; &nbsp; - Typescript
-  
-  &nbsp; &nbsp; &nbsp; &nbsp; - Unit test (Jest, Vue test utils)
-  
-  &nbsp; &nbsp; &nbsp; &nbsp; - Frontend as service
+**Senior Software Engineer — Fullstack JavaScript (Vue / React / Node / TypeScript)**  
+Based in Berlin 🇩🇪 | Open for freelance missions & technical collaborations  
 
-  &nbsp; &nbsp; &nbsp; &nbsp; - Node.js (Express, Socket.io)
-  
-  &nbsp; &nbsp; &nbsp; &nbsp; - PHP / Symfony
+---
 
-  &nbsp; &nbsp; &nbsp; &nbsp; - SQL / MySQL / SQLite
-  
-  &nbsp; &nbsp; &nbsp; &nbsp; - NoSQL / MongoDB (Mongoose)
+### 💻 Tech Stack
+**Frontend:** Vue.js (Nuxt, Pinia, Vuetify), React (Next.js, Redux, React Router, Styled Components), ...  
+**Backend:** Node.js (AdonisJS, Express, NestJS), PostgreSQL, MongoDB, ...  
+**DevOps:** Docker, Terraform, Ansible, AWS, Nginx,...
+**Testing:** Jest, Vue Test Utils, TDD  
+**Other:** GitLab CI/CD, Agile Development, ... 
 
-  &nbsp; &nbsp; &nbsp; &nbsp; - Git / GitLab
-  
-  &nbsp; &nbsp; &nbsp; &nbsp; - Agile software development
-  
-  &nbsp; &nbsp; &nbsp; &nbsp; - TDD
-  
- - 🔭 I’m currently working on my new portfolio
- 
- - 🌱 I'm currently focus on improving my backend software skills
- 
- - ✈️ I moved to Berlin to improve my english, to discover a new life and for search a new challenges!
- 
- - 🤔 I’m looking for help with find a job as software engineer with wich i can up my backend skills
- 
- - 📫 How to reach me:
- 
-  &nbsp; &nbsp; &nbsp; &nbsp; LinkedIn: https://www.linkedin.com/in/matthias-dumont/
-  
-  &nbsp; &nbsp; &nbsp; &nbsp; Malt: https://www.malt.fr/profile/matthiasdumont
+---
 
-<!--
-**Matthias-dmt/Matthias-dmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I’m a software engineer passionate about building clean, maintainable, and reliable applications.  
+I work across the full stack — from frontend to backend and infrastructure — with a focus on performance and long-term scalability.  
 
-Here are some ideas to get you started:
+I like to approach each mission with seriousness and passion, always aiming for clarity and efficiency.  
+Outside of client work, I’m currently exploring **automated trading systems** using **Freqtrade** and **machine learning algorithms** to refine and optimize trading strategies.
 
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Get in Touch
+- 💼 [LinkedIn](https://www.linkedin.com/in/matthias-dumont/)  
+- 🧩 [Malt](https://www.malt.fr/profile/matthias-dumont)  
+- 🌐 Portfolio (coming soon)  
+
+---
+
+⭐️ *If you like my projects, feel free to star or fork them!*  
