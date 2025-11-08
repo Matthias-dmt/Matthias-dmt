@@ -26,7 +26,7 @@ Outside of client work, I’m currently exploring **automated trading systems** 
 ### 📫 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/matthias-dumont/)  
 - 🧩 [Malt](https://www.malt.fr/profile/matthias-dumont)  
-- 🌐 Portfolio (coming soon)  
+- 🌐 [Portfolio](https://www.matthiasdumont.com/)
 
 ---
 
