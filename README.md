@@ -1,33 +1,46 @@
-# Hi there 👋 I'm Matthias Dumont  
-
-**Senior Software Engineer — Fullstack JavaScript (Vue / React / Node / TypeScript)**  
-Based in Berlin 🇩🇪 | Open for freelance missions & technical collaborations  
-
----
-
-### 💻 Tech Stack
-**Frontend:** Vue.js (Nuxt, Pinia, Vuetify), React (Next.js, Redux, React Router, Styled Components), ...  
-**Backend:** Node.js (AdonisJS, Express, NestJS), PostgreSQL, MongoDB, ...  
-**DevOps:** Docker, Terraform, Ansible, AWS, Nginx,...
-**Testing:** Jest, Vue Test Utils, TDD  
-**Other:** GitLab CI/CD, Agile Development, ... 
+Hi 👋 I'm Matthias Dumont  
+Senior Fullstack Engineer (Fullstack, Systems & Product-focused) — Node.js / TypeScript / React / Vue  
+Based in Berlin 🇩🇪 | Open to full-time roles, freelance missions & product-driven teams  
 
 ---
 
-### 🚀 About Me
-I’m a software engineer passionate about building clean, maintainable, and reliable applications.  
-I work across the full stack — from frontend to backend and infrastructure — with a focus on performance and long-term scalability.  
+## 🚀 What I Do
 
-I like to approach each mission with seriousness and passion, always aiming for clarity and efficiency.  
-Outside of client work, I’m currently exploring **automated trading systems** using **Freqtrade** and **machine learning algorithms** to refine and optimize trading strategies.
+I build and scale production-grade web applications.
+
+Over the past years, I’ve worked on a SaaS platform handling:
+
+- Multi-server architecture & load balancing (Nginx)
+- Media processing pipelines (FFmpeg, async encoding)
+- Background jobs & notification systems
+- Stripe payment integration
+- Production & staging environments
+- CI/CD workflows
+- Technical leadership & client collaboration
+
+I care about clarity, system design, and long-term maintainability.
 
 ---
 
-### 📫 Get in Touch
+## 🛠 Core Stack
+
+Backend: Node.js (Express, NestJS, Adonis), TypeScript, PostgreSQL  
+Frontend: Vue (Nuxt), React (Next.js)  
+Infra: Docker, AWS, Nginx  
+Testing: Jest, TDD  
+
+---
+
+## 🧠 Currently Exploring
+
+- AI-powered systems  
+- Automated trading systems (Freqtrade)  
+- Scalable backend architecture patterns  
+
+---
+
+## 📫 Contact
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/matthias-dumont/)  
 - 🧩 [Malt](https://www.malt.fr/profile/matthias-dumont)  
-- 🌐 [Portfolio](https://www.matthiasdumont.com/)
-
----
-
-⭐️ *If you like my projects, feel free to star or fork them!*  
+- 🌐 [Portfolio](https://www.matthiasdumont.com/) 
